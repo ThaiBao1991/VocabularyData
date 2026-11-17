@@ -22,5 +22,9 @@
  "tiếng_trung": {
   "dir": "tieng-trung",
   "months": 21
+ },
+ "tiếng_tây_ban_nha": {
+  "dir": "tieng-tay-ban-nha",
+  "months": 21
  }
 }
