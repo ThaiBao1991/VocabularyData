@@ -6,5 +6,9 @@
  "tiếng_nhật": {
   "dir": "tieng-nhat",
   "months": 80
+ },
+ "tiếng_trung": {
+  "dir": "tieng-trung",
+  "months": 21
  }
 }
