@@ -26,5 +26,9 @@
  "tiếng_tây_ban_nha": {
   "dir": "tieng-tay-ban-nha",
   "months": 21
+ },
+ "tiếng_đức": {
+  "dir": "tieng-duc",
+  "months": 21
  }
 }
