@@ -1,4 +1,8 @@
 {
+ "tiếng_anh": {
+  "dir": "tieng-anh",
+  "months": 23
+ },
  "tiếng_hàn_quốc": {
   "dir": "tieng-han-quoc",
   "months": 21
