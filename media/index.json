@@ -7,6 +7,10 @@
   "dir": "tieng-han-quoc",
   "months": 21
  },
+ "tiếng_nga": {
+  "dir": "tieng-nga",
+  "months": 21
+ },
  "tiếng_nhật": {
   "dir": "tieng-nhat",
   "months": 80
