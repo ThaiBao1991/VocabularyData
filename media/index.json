@@ -15,6 +15,10 @@
   "dir": "tieng-nhat",
   "months": 80
  },
+ "tiếng_pháp": {
+  "dir": "tieng-phap",
+  "months": 21
+ },
  "tiếng_trung": {
   "dir": "tieng-trung",
   "months": 21
